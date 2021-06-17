@@ -14,20 +14,20 @@ window.onload = function() {
 let genearExcusa = () => {
   let pronoun = ["Un/a", "La/El"];
   let subject = [
-    "mosca 🦟",
-    "gato 🐱",
-    "perro 🐶",
-    "payaso 🤡",
-    "abuelita 🤶",
-    "Mickey 🐭"
+    "mosca ",
+    "gato ",
+    "perro ",
+    "payaso ",
+    "Tia",
+    "Naruto "
   ];
   let action = ["tomo mi", "tiró mi", "le grito a mi", "robo mi", "mordio mi"];
   let possetion = [
-    "tarea 📖",
-    "auto 🚗",
-    "bicicleta 🚲",
-    "zapato 👞",
-    "dedo del pie 🦶"
+    "tarea ",
+    "auto ",
+    "bicicleta ",
+    "zapato ",
+    "Manoz"
   ];
   let where = ["en la calle.", "en mi casa. ", "en la entrada del colegio."];
 
